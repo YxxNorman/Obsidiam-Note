@@ -1,0 +1,10 @@
+{
+  "attachmentFolderPath": "./images",
+  "newFileLocation": "current",
+  "vimMode": true,
+  "alwaysUpdateLinks": true,
+  "strictLineBreaks": true,
+  "showLineNumber": true,
+  "showFrontmatter": true,
+  "spellcheckLanguages": null
+}

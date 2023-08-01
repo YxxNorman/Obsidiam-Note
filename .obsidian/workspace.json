@@ -1,0 +1,210 @@
+{
+  "main": {
+    "id": "d141b05c25c77b69",
+    "type": "split",
+    "children": [
+      {
+        "id": "ce66e203691414fe",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "caf06d6f34eb3f6e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Git学习/01 Git入门教程.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "5bd311f37fd387cd",
+    "type": "split",
+    "children": [
+      {
+        "id": "5119fec43d25d366",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3701ebfc6d79b2d2",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "e213edcbcc00f6fe",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "136ec4b8292802d9",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          },
+          {
+            "id": "b429e4667d6b1eb1",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "db1a6c438fb2a9c3",
+    "type": "split",
+    "children": [
+      {
+        "id": "999a198fee995af3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4944454985e4ce59",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Git学习/01 Git入门教程.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "91ba921a40b91bed",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Git学习/01 Git入门教程.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "14afae954b3b5bdd",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "952d295bad597e16",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Git学习/01 Git入门教程.md"
+              }
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "obsidian-excalidraw-plugin:新建 Excalidraw 绘图": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "templater-obsidian:Templater": false
+    }
+  },
+  "active": "caf06d6f34eb3f6e",
+  "lastOpenFiles": [
+    "Git学习/02 远程仓库.md",
+    "数模学习/01 层次分析法.md",
+    "Excalidraw/Drawing 2023-08-01 08.14.35.excalidraw.md",
+    "Excalidraw/Drawing 2023-08-01 08.12.25.excalidraw.md",
+    "Excalidraw",
+    "Git学习/GitCheatSheet-byGeekHour.pdf",
+    "数模学习",
+    "Git学习/01 Git入门教程.md",
+    "Git学习/03 分支.md",
+    "Hexo博客教程/从零开始搭建自己的博客教程.md",
+    "Git学习",
+    "工程材料/Chapter1 工程材料的结构与性能.md",
+    "2023-07-30.md",
+    "工程材料/力学性能.md",
+    "工程材料/强度.md",
+    "工程材料/感应加热表面淬火.md",
+    "工程材料/火焰加热表面淬火.md",
+    "工程材料/回复.md",
+    "工程材料/淬硬性.md",
+    "工程材料/淬火.md",
+    "工程材料/回火脆性.md",
+    "工程材料/回火.md",
+    "工程流体/Chapter1 流体及其物理性质.md",
+    "JavaScript/变量.md",
+    "JavaScript/JavaScript 介绍.md",
+    "JavaScript/数据类型.md",
+    "JavaScript/关键字.md",
+    "计算方法考点.md",
+    "电工学原理/Chapter8 Diodes（二极管）.md",
+    "电工学原理/images/负载线分析法.png",
+    "电工学原理/images/恒压降模型.png",
+    "电工学原理/images/理想模型.png",
+    "电工学原理/images/实际模型.png",
+    "电工学原理/images/二极管电路图.png",
+    "电工学原理/images/二极管特性曲线.png",
+    "材料力学/Chapter1 绪论.md",
+    "材料力学/images/轴力.png",
+    "材料力学/images/圣维南原理.png",
+    "材料力学/images/轴力图.png",
+    "Hexo博客教程/images/NodejsDownload.png",
+    "images",
+    "Hexo博客教程",
+    "Hexo博客教程/images",
+    "材料力学/images",
+    "材料力学/新建文件夹",
+    "电工学原理/images"
+  ]
+}
